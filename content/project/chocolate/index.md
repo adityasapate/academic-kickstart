@@ -2,6 +2,9 @@
 title: The Oath of the Vayuputras
 subtitle: ""
 date: 2020-07-21T05:45:53.238Z
+summary: Shiva is gathering his forces. He reaches the Naga capital, Panchavati,
+  and Evil is finally revealed. The Neelkanth prepares for a holy war against
+  his true enemy, a man whose name instils dread in the fiercest of warriors.
 draft: false
 featured: false
 tags:
@@ -12,4 +15,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Shiva is gathering his forces. He reaches the Naga capital, Panchavati, and Evil is finally revealed. The Neelkanth prepares for a holy war against his true enemy, a man whose name instils dread in the fiercest of warriors.
