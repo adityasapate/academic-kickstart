@@ -14,4 +14,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Read1
+  alt_text: Read2
 ---
