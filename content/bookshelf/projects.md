@@ -26,12 +26,31 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Fantasy"
-     tag = "Fantasy"
+     name = "Management"
+     tag = "Management"
   
    [[content.filter_button]]
      name = "Self Help"
      tag = "Self Help"
+
+   [[content.filter_button]]
+     name = "Fantasy"
+     tag = "Fantasy"
+
+   [[content.filter_button]]
+     name = "Fiction"
+     tag = "Fiction"
+
+   [[content.filter_button]]
+     name = "Non-Fiction"
+     tag = "Non-Fiction"
+
+   [[content.filter_button]]
+     name = "Spiritual"
+     tag = "Spiritual"
+
+
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
