@@ -6,7 +6,7 @@ featured: false
 authors:
   - Aditya Sapate
 image:
-  filename: 20200801_150545.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
