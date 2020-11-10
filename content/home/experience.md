@@ -28,19 +28,14 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Category Management
-  * E-commerce Business Development
-  * Product Management
-  * Marketplace Management
-  * Digital Marketing & Merchendizing
-  * E-commerce operations
-  * Tools and Automation 
+  * General Gynaecology Business Development
+  * Digital Marketing 
+  * Team Management
+  * P&L management 
   """
 
-
-
-
 [[experience]]
-  title = "ASST. MANAGER"
+  title = "Asst. Manager"
   company = "Casio India Co. Pvt. Ltd."
   company_url = "https://www.casio-intl.com/in/en/"
   location = "New Delhi, India"
@@ -61,7 +56,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Tech Strategy Internship"
   company = "Group M"
-  company_url = ""
+  company_url = "https://www.groupm.com/"
   location = "Mumbai, India"
   date_start = "2017-04-01"
   date_end = "2017-05-31"
