@@ -18,12 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Sr. Manager"
+  company = "Pristyn Care Pvt. Ltd."
+  company_url = "https://www.pristyncare.com/"
+  location = "Gurugram, India"
+  date_start = "2020-08-01"
+  date_end = "2020-10-07"
+  description = """
+  Responsibilities include:
+  
+  * Category Management
+  * E-commerce Business Development
+  * Product Management
+  * Marketplace Management
+  * Digital Marketing & Merchendizing
+  * E-commerce operations
+  * Tools and Automation 
+  """
+
+
+
+
+[[experience]]
   title = "ASST. MANAGER"
   company = "Casio India Co. Pvt. Ltd."
-  company_url = ""
+  company_url = "https://www.casio-intl.com/in/en/"
   location = "New Delhi, India"
   date_start = "2018-05-01"
-  date_end = ""
+  date_end = "2020-07-15"
   description = """
   Responsibilities include:
   
