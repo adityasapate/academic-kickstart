@@ -25,13 +25,9 @@ date_format = "Jan 2006"
   date_start = "2020-08-01"
   date_end = "2020-10-07"
   description = """
-  Responsibilities include:
-  
-  * Category Management
-  * General Gynaecology Business Development
-  * Digital Marketing 
-  * Team Management
-  * P&L management 
+  * P&L ownership for the Female Health business category
+  * Planning and execution of growth, marketing and operations strategy
+  * Team Management of Business Development
   """
 
 [[experience]]
