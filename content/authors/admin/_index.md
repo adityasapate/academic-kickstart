@@ -75,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-I am a MBA graduate from <b>IIM Lucknow</b> and Engineering graduate in <b>Computer Science</b> from <b>IIT, Madras</b> with a combined experience of Two years in <b>FMCD</b> and <b>E-commerce</b> businesses in India. Skilled in domains of Growth strategy, Business development, B2B sales, and Program management.
+I am a MBA graduate from <b>IIM Lucknow</b> and Engineering graduate in <b>Computer Science</b> from <b>IIT, Madras</b> with a combined experience of Two years in <b>FMCD</b> and <b>E-commerce</b> businesses in India. Skilled in domains of Strategy & Planning, Sales, Cost Analysis, Team Management with a backbone of Technology. 
 
 Looking for opportunities to work in the Growth strategy domain for firms focusing on tech-based products or services.
