@@ -29,22 +29,21 @@ social:
     link: tel:+919999334356
   - icon: envelope
     icon_pack: fas
-    link: mailto:aditya.sapate@iiml.org
+    link: mailto:adityasapate@gmail.com
   - icon: cv
     icon_pack: ai
     link: files/cv.pdf
 education:
   courses:
-  - course: MBA
-    institution: Indian Institute of Management, Lucknow
-    year: 2016-18
-  - course: M.Tech in Computer Science
-    institution: Indian Institute of Technology, Madras
-    year: 2014-15
-  - course: B.Tech in Computer Science
-    institution: Indian Institute of Technology, Madras
-    year: 2010-15
-
+    - course: MBA
+      institution: Indian Institute of Management, Lucknow
+      year: 2016-18
+    - course: M.Tech in Computer Science
+      institution: Indian Institute of Technology, Madras
+      year: 2014-15
+    - course: B.Tech in Computer Science
+      institution: Indian Institute of Technology, Madras
+      year: 2010-15
 user_groups:
   - Researchers
   - Visitors
