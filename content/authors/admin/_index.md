@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Asst. Manager
+role: Aditya Sapate
 
 # Organizations/Affiliations
 organizations:
-- name: Casio India Company Pvt. Ltd.
+- name: Experienced Professional in Strategy & Planning, Sales, Cost Analysis, Team Management with a backbone of Technology.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
