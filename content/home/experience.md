@@ -31,32 +31,20 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Asst. Manager, Business Planning"
+  title = "Asst. Manager"
   company = "Casio India Co. Pvt. Ltd."
   company_url = "https://www.casio-intl.com/in/en/"
   location = "New Delhi, India"
   date_start = "2018-05-01"
   date_end = "2020-07-15"
   description = """
-  * Product Portfolio Management - Exploiting current product line-up of different brands under Casio’s umbrella through right pricing, placement and selection of right products for promotion, timely recommendations to and interactions with R&D team to suggest ideas for future line-up according to the Indian market as per upcoming/changing trends
-  * Regular analysis and review of different sales medium for Musical Instruments and Calculators business and assisting top management in strategizing ideas for further business growth on the basis of outcomes of the studies
-  * Handling special projects involving cross-functional teams to develop holistic ideas to turnaround market scenarios from a brand/geography perspective along with ensuring implementation and monitoring and updating the same to top management
-  * Timely research and analysis of competitions and their products in order to be up-to-date with changing market scenarios and how to leverage the same in best possible ways for the brand
-  * Regular market visits to understand the trends of a demography as well as to strategize ideas to develop a high potential/weaker market into a strong one for the brand
-  """
-
-[[experience]]
-  title = "Asst. Manager, Online Sales"
-  company = "Casio India Co. Pvt. Ltd."
-  company_url = "https://www.casio-intl.com/in/en/"
-  location = "New Delhi, India"
-  date_start = "2018-05-01"
-  date_end = "2020-07-15"
-  description = """
-  * Planning Inventory for Diamond and Market Place Seller for key platforms.
-  * New Product / exclusive product launch
-  * End to end accountability of from sales and growth for each platform
-  * Aligning the promotions offer as per events to fill the gaps and to be competent on platforms.
+  * Category Management
+  * E-commerce Business Development
+  * Product Management
+  * Marketplace Management
+  * Digital Marketing & Merchendizing
+  * E-commerce operations
+  * Tools and Automation 
   """
 
 [[experience]]
