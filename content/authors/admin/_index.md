@@ -4,7 +4,7 @@ name: Aditya Sapate
 
 # Username (this should match the folder name)
 authors:
-- Aditya Sapate
+- admin
 
 # Is this the primary user of the site?
 superuser: true
