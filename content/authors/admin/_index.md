@@ -35,13 +35,13 @@ social:
     link: files/cv.pdf
 education:
   courses:
-  - course: Masters in Business Administration
+  - course: MBA
     institution: Indian Institute of Management, Lucknow
     year: 2016-18
-  - course: Masters in Technology in Computer Science
+  - course: M.Tech in Computer Science
     institution: Indian Institute of Technology, Madras
     year: 2014-15
-  - course: Bachelors in Technology in Computer Science
+  - course: B.Tech in Computer Science
     institution: Indian Institute of Technology, Madras
     year: 2010-15
 
