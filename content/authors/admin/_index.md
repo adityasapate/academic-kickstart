@@ -14,11 +14,11 @@ role: Aditya Sapate
 
 # Organizations/Affiliations
 organizations:
-- name: Experienced Professional in Strategy & Planning, Sales, Cost Analysis, Team Management with a backbone of Technology.
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Experienced Professional in Strategy & Planning, Sales, Cost Analysis, Team Management with a backbone of Technology.
 
 interests:
 - Artificial Intelligence
