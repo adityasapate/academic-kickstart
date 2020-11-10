@@ -4,7 +4,7 @@ date: 2020-08-04T05:14:48.633Z
 draft: false
 featured: false
 authors:
-  - Aditya Sapate
+  - admin
 image:
   filename: featured.jpg
   focal_point: Smart
