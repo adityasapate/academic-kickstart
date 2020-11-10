@@ -30,7 +30,10 @@ education:
   - course: Masters in Business Administration
     institution: Indian Institute of Management, Lucknow
     year: 2016-18
-  - course: Dual Degree in Computer Science
+  - course: M.Tech in Computer Science
+    institution: Indian Institute of Technology, Madras
+    year: 2014-15
+  - course: B.Tech in Computer Science
     institution: Indian Institute of Technology, Madras
     year: 2010-15
 
