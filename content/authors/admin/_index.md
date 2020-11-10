@@ -1,16 +1,10 @@
 ---
-organizations:
-  - name: Pristyn Care Pvt. Ltd
-    url: https://www.pristyncare.com/
-  - name: Casio India Co. Pvt. Ltd
-    url: http://casio.co.in/
-  - name: Group M
-    url: https://www.groupm.com/
+organizations: []
 superuser: true
 authors:
   - admin
 title: Aditya Sapate
-role: Aditya Sapate
+role: ""
 bio: Experienced Professional in Strategy & Planning, Sales, Cost Analysis, Team
   Management with a backbone of Technology.
 interests:
